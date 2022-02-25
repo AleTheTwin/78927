@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXwqJdcmwqchRBjAd3vdU0wSiB2ybjS83MRqKcwC+lMs0zf0ZXlgIfZkSSRg2+EE7MKlOK+nct7PLwX87fbpAg==",
+  "dgSpecHash": "HJPK48bbVFNVFS2JqLBriRW7zUMP1kMGxUkzzOfSyfOzacL4KWmCJMhAnUnVWANMREoBqKH0aceaW/IUg6FW4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Documents\\projects\\tecnologias-para-la-integracion\\soap-test\\soap-test.csproj",
+  "projectFilePath": "D:\\OneDrive - Universidad Veracruzana\\Tecnologías para la Integración de Soluciones\\78927\\soap-test\\soap-test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
