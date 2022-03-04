@@ -4,60 +4,60 @@
             <xs:element name="suma">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="args0" type="xs:double"/>
-                        <xs:element name="args1" type="xs:double"/>
+                        <xs:element name="args0" type="xs:int"/>
+                        <xs:element name="args1" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="sumaResponse">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="return" type="xs:double"/>
+                        <xs:element name="return" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="resta">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="args0" type="xs:double"/>
-                        <xs:element name="args1" type="xs:double"/>
+                        <xs:element name="args0" type="xs:int"/>
+                        <xs:element name="args1" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="restaResponse">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="return" type="xs:double"/>
+                        <xs:element name="return" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="multiplcia">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="args0" type="xs:double"/>
-                        <xs:element name="args1" type="xs:double"/>
+                        <xs:element name="args0" type="xs:int"/>
+                        <xs:element name="args1" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="multiplciaResponse">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="return" type="xs:double"/>
+                        <xs:element name="return" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="divide">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="args0" type="xs:double"/>
-                        <xs:element name="args1" type="xs:double"/>
+                        <xs:element name="args0" type="xs:int"/>
+                        <xs:element name="args1" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
             <xs:element name="divideResponse">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="return" type="xs:double"/>
+                        <xs:element name="return" type="xs:int"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>

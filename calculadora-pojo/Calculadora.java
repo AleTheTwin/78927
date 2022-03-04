@@ -1,17 +1,17 @@
 public class Calculadora {
-    public double suma (double a, double b) {
+    public int suma (int a, int b) {
         return a + b;
     }
     
-    public double resta (double a, double b) {
+    public int resta (int a, int b) {
         return a - b;
     }
     
-    public double multiplcia (double a, double b) {
+    public int multiplcia (int a, int b) {
         return a * b;
     }
     
-    public double divide (double a, double b) {
+    public int divide (int a, int b) {
         return a / b;
     }
 }
