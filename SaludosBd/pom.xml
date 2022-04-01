@@ -14,7 +14,7 @@
 	<name>SaludosBd</name>
 	<description>WS para saludos que almacena en una Base de Datos</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
